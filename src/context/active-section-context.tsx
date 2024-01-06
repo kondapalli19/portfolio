@@ -32,7 +32,7 @@ export default function activeSectionContextProvider({
       }}>{children}</ActiveSectionContext.Provider>
     );
 }
-export function useActiveSectionContext() {
+export function UseActiveSectionContext() {
     const context = useContext(ActiveSectionContext);
   
     if (context === null) {
