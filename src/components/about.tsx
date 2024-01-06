@@ -2,10 +2,10 @@
 import React, { useEffect } from 'react'
 import SectionHeading from "./section-heading";
 import { motion } from "framer-motion";
-import { useSectionInView } from "@/lib/hooks";
+import { UseSectionInView } from "@/lib/hooks";
 
 export default function about() {
-  const { ref } = useSectionInView("About");
+  const { ref } = UseSectionInView("About");
 
   return (
     <motion.section
