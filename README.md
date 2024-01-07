@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Personal Portfolio | <a href="https://portfolio-psi-bay-53.vercel.app/">Preview</a>
+
+Hi, I'm K Koyal, final-year B.Tech student passionate about coding in full-stack development. I enjoy building sites & apps with a focus on React (Next.js).
+
+This portfolio includes:
+- navbar
+- intro
+- about
+- skills
+- experience
+- contact
+- switch theme
+
+
 
 ## Getting Started
 
