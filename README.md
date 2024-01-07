@@ -1,6 +1,8 @@
-#Personal Portfolio | <a href="https://portfolio-psi-bay-53.vercel.app/">Preview</a>
+# 🙍‍♀️Personal Portfolio | <a href="https://portfolio-psi-bay-53.vercel.app/">Preview</a>
 
-Hi, I'm K Koyal, final-year B.Tech student passionate about coding in full-stack development. I enjoy building sites & apps with a focus on React (Next.js).
+Hi, I'm K Koyal, a final-year B.Tech student passionate about coding in full-stack development. I enjoy building sites & apps with a focus on React (Next.js).
+
+## 💪About
 
 This portfolio includes:
 - navbar
@@ -11,7 +13,9 @@ This portfolio includes:
 - contact
 - switch theme
 
+One can contact me by sending emails directly to my Gmail and can download my resume. To send emails I have used Resend API key which you can get from <a href="https://resend.com/">Resend official website.</a>
 
+## 🤝 Want to contribute
 
 ## Getting Started
 
@@ -41,6 +45,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+🙃Happy Coding!
 
 ## Deploy on Vercel
 
